@@ -36,7 +36,10 @@ hr {
     border-color: #999999;
 }
 
-.brand,
+.brand
+{
+    font-family:"Calligraffiti", cursive;
+}
 .address-bar {
     display: none;
 }
