@@ -57,6 +57,11 @@ hr {
     min-width: 100%;
 }
 
+.img-owl{
+    width:200px; 
+    height:auto;
+}
+
 .brand-before,
 .brand-name {
     text-transform: capitalize;
